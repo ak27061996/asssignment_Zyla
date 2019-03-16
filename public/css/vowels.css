@@ -1,0 +1,8 @@
+.highlight-vowel-false {
+    background-color: red;
+    color: white;
+}
+.highlight-vowel-true {
+    background-color: #000080;
+    color: white;
+}
